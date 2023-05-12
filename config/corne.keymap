@@ -49,7 +49,7 @@
    &kp  TAB  &kp EXCL     &kp AT       &kp HASH     &kp DLLR &kp PRCNT   &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR &kp RPAR &kp RALT
    &kp LCTRL &bt BT_SEL 0 &bt BT_SEL 2 &kp C_VOL_UP &trans   &trans      &kp DQT &kp EQUAL &kp LBKT        &kp RBKT &kp BSLH &kp GRAVE
    &kp LSHFT &bt BT_SEL 1 &bt BT_CLR   &kp C_VOL_DN &trans   &trans      &kp UNDER &kp PLUS  &kp LBRC        &kp RBRC &kp PIPE &kp TILDE
-                    	     &kp LGUI &trans   &trans   &kp RET   &kp ESC    &kp LALT
+                    	     &kp LGUI &trans   &trans   &kp RET   &kp ESC    &trans
                         >;
                 };
         };
